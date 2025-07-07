@@ -14,7 +14,7 @@ const UpdateCard = () => {
           </p>
 
           <div className="flex justify-center">
-            <Clock size={48} className="text-orange-500" />
+            <Clock size={100} className="text-orange-500" />
           </div>
         </div>
       </div>
